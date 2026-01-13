@@ -1,0 +1,27 @@
+{
+  "name": "mid-ocean-monokai",
+  "displayName": "MidOcean Monokai",
+  "description": "A dark-themed custom VS Code theme with ocean vibes.",
+  "version": "1.0.0",
+  "publisher": "coderiver-labs",
+  "engines": {
+    "vscode": "^1.70.0"
+  },
+  "categories": ["Themes"],
+  "icon": "mid-ocean-monokai.png",
+  "contributes": {
+    "themes": [
+      {
+        "id": "midocean-monokai",
+        "label": "MidOcean Monokai",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monokai-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coderiver-labs/midocean-monokai-vscode-theme"
+  },
+  "license": "MIT"
+}
