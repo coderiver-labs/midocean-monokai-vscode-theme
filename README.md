@@ -4,6 +4,7 @@ A dark-themed custom **VS Code** color theme with ocean vibes — inspired by th
 <p align="center">
   <img src="mid-ocean-monokai.png" alt="Theme Preview" width="200"/>
 </p>
+
 ## Features
 - Deep ocean blue background with soft syntax highlights  
 - Easy on the eyes for long coding sessions  
