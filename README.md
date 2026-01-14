@@ -11,9 +11,15 @@ A dark-themed custom **VS Code** color theme with ocean vibes — inspired by th
 
 ---
 
+
 ## Installation (Local)
 
-1. **Build the VSIX file**
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/coderiver-labs/midocean-monokai-vscode-theme.git
+   cd midocean-monokai-vscode-theme
+
+2. **Build the VSIX file**
    ```bash
    npm install -g @vscode/vsce
    vsce package
@@ -21,7 +27,7 @@ A dark-themed custom **VS Code** color theme with ocean vibes — inspired by th
    
 **Note:** This command will generate a file named  `mid-ocean-monokai-1.0.0.vsix`
 
-2. **Install the theme in VS Code**
+3. **Install the theme in VS Code**
    ```bash
    code --install-extension mid-ocean-monokai-1.0.0.vsix
 
